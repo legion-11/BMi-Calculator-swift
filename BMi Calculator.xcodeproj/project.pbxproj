@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		690E6D10258417870064B2E4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E6D0F258417870064B2E4 /* TableViewController.swift */; };
+		690E6D1325842E1D0064B2E4 /* EditCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690E6D1225842E1D0064B2E4 /* EditCellViewController.swift */; };
 		694A68F02581679D0045B6FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A68EF2581679D0045B6FB /* AppDelegate.swift */; };
 		694A68F22581679D0045B6FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A68F12581679D0045B6FB /* SceneDelegate.swift */; };
 		694A68F42581679D0045B6FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694A68F32581679D0045B6FB /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		690E6D0F258417870064B2E4 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		690E6D1225842E1D0064B2E4 /* EditCellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCellViewController.swift; sourceTree = "<group>"; };
 		694A68EC2581679D0045B6FB /* BMi Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMi Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		694A68EF2581679D0045B6FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		694A68F12581679D0045B6FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				694A68F8258167B70045B6FB /* Assets.xcassets */,
 				694A68FA258167B70045B6FB /* LaunchScreen.storyboard */,
 				694A68FD258167B70045B6FB /* Info.plist */,
+				690E6D0F258417870064B2E4 /* TableViewController.swift */,
+				690E6D1225842E1D0064B2E4 /* EditCellViewController.swift */,
 			);
 			path = "BMi Calculator";
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				694A68F42581679D0045B6FB /* ViewController.swift in Sources */,
 				694A68F02581679D0045B6FB /* AppDelegate.swift in Sources */,
 				694A68F22581679D0045B6FB /* SceneDelegate.swift in Sources */,
+				690E6D1325842E1D0064B2E4 /* EditCellViewController.swift in Sources */,
+				690E6D10258417870064B2E4 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
